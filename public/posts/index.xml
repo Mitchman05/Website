@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Test title</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Recent content in Posts on Test title</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Tue, 15 Apr 2025 22:17:50 +1000</lastBuildDate>
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Test Post</title>
+            <link>http://localhost:1313/posts/test-post/</link>
+            <pubDate>Tue, 15 Apr 2025 22:17:50 +1000</pubDate>
+            
+            <guid>http://localhost:1313/posts/test-post/</guid>
+            <description>&lt;h1 id=&#34;test-post-header&#34;&gt;Test post header&lt;/h1&gt;
+&lt;p&gt;This is a test post&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<h1 id="test-post-header">Test post header</h1>
+<p>This is a test post</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
