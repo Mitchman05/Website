@@ -1,7 +1,6 @@
 baseURL = 'https://www.mitchman05.com/'
 languageCode = 'en-us'
 title = "Mitchell's Website"
-theme = 'hello-friend-ng'
 
 [params]
 	dateform = "Jan 2, 2006"
